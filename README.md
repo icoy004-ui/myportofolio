@@ -1,2 +1,0 @@
-# myportofolio
-ini portofolio
